@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Content Provider</string>
+    <string name="add_student">Add Student</string>
+</resources>
