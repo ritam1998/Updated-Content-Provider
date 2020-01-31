@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Content Provider</string>
-    <string name="add_student">Add Student</string>
+    <string name="app_name">Response App</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">New person add</string>
 </resources>
