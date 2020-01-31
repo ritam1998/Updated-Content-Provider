@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Response App</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">New person add</string>
+</resources>
